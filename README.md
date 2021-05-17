@@ -12,8 +12,11 @@ div -> deverá receber 2 argumentos e imprimir na consola a divisão dos mesmos
 prog -> programa que invocará os programas acima connforme o calculo inserido durante a sua execução
 
 ***DICAS***
+Compilar programa:
+~/GitHubSISTCA$: gcc -Wall [nome programa a compilar] -o [nome ficheiro saída]
+
 Correr a calculadora:
-~/GitHubSISTCA$ ./prog
+~/GitHubSISTCA$: ./prog
 
 ***Exemplos***
 Inserir calculo -> 4+6
